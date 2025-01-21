@@ -1,3 +1,5 @@
+//25.01.21 - Spring MVC 1편 강의 끝남.
+//처음부터 ~ Spring MVC 1편까지 복습 or Spring MVC 2편부터 시작
 package hello.itemservice.web.basic;
 
 
